@@ -4,7 +4,7 @@ import React from "react";
 
 const initialTodos = [
   {
-    title: "Learn React",
+    title: "Excercise",
     completed: false,
     editable: true,
   },
